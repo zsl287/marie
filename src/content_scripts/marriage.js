@@ -1,6 +1,6 @@
 const info = {
   maleInfo: {
-    name: { value: '刘XX', editor: '#xmnan', },
+    name: { value: '刘ss', editor: '#xmnan', },
     id: { value: '610102XXXXXXXXXXXX', editor: '#sfzjhmnan', },
     degree: { value: '大学', editor: '#whcdnan', },
     job: { value: '专业技术人员', editor: '#zynan', },
@@ -16,7 +16,7 @@ const info = {
   },
 
   address: {
-    date: '2025-08-22', // 默认办理日期
+    date: '2025-09-08', // 默认办理日期
     city: '440100000000', // 默认办理城市：广州市
     // 意向办理网点列表，若优先级高的网点没有可预约时间，则依次尝试优先级低的网点
     officeList: [
